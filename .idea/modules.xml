@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AntiVirusApp/AntiVirusApp.iml" filepath="$PROJECT_DIR$/AntiVirusApp/AntiVirusApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bmi/BMI.iml" filepath="$PROJECT_DIR$/bmi/BMI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SetList/SetList.iml" filepath="$PROJECT_DIR$/SetList/SetList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/tu-java.iml" filepath="$PROJECT_DIR$/.idea/tu-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BmiFX/upr3.iml" filepath="$PROJECT_DIR$/BmiFX/upr3.iml" />
+    </modules>
+  </component>
+</project>
